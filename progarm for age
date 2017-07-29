@@ -1,0 +1,14 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+int age;
+clrscr();
+printf("Enter your age:");
+scanf("%d",&age);
+if(age>180
+printf("You are a major");
+else
+printf("You are a minor");
+getch();
+}
